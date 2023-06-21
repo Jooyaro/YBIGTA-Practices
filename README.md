@@ -1,4 +1,4 @@
-# YBIGTA(Yonsei Bigdata Club)
+# YBIGTA(Yonsei Bigdata Club) Practices
 
 ### The files include:
 #### - YBIGTA Assignments based on the Data of Kobe Bryant Shot Selection.
